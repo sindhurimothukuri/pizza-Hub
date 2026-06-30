@@ -1,0 +1,6 @@
+{
+  "name": "Pizza.",
+  "description": "A beautifully crafted premium pizza landing page with interactive elements, floating ingredients, and a delicious menu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
